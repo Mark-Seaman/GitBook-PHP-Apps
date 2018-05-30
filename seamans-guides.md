@@ -23,6 +23,6 @@ Check out the following Guides that are still being written
 * [HTML Apps](../HtmlApps/Index.md) - 45 Lessons on building Apps in HTML, CSS, and JavaScript
 * [PHP Apps](../PhpApps/Index.md) - 45 Lessons on building Apps in PHP and MySQL
 * [Teaching Technology](../Teaching/SUMMARY.md) - lessons learned from teaching college
-* [Reusable Apps - A cookbook for rapid development based on software leverage](../ReusableApps/Index)
+* [Reusable Apps](../ReusableApps/Index) - A cookbook for rapid development based on software leverage
 * [Life That Matters](../Life/Index) - Tips for living the good life
 
