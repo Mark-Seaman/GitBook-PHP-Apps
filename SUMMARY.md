@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
 * [Seaman's Guides](seamans-guides.md)
-* [Applications](applications.md)
 * [Course Outline](course-outline.md)
+* [Schedule Fall 2018](Schedule_UNC_Fall_2018.md)
+* [Introduction](README.md)
+* [Application Assignments](assignments.md)
 * [Index](index.md)
-* [Schedule Fall 2018](schedule-fall-2018.md)
 
