@@ -1,16 +1,16 @@
 ,,,,,,,
 ,,,,,,,
 ,,,Lesson,Technology,Engineering,Application,Murach
-1,Mon,08-20,Lesson1,PHP Server,Digital Ocean,Profile Page,Web dev
-,Wed,08-22,Lesson2,Extended HTML,Github Account,Add CSS,--
-,Fri,08-24,Lesson3,Design Patterns,,Exercises Page,PHP App
-2,Mon,08-27,Lesson4,CSS/HTML,,Styled Pages,MySQL database
-,Wed,08-29,Lesson5,Render View,Display Table,Exercises Index,PHP + MySQL
-,Fri,08-31,Lesson6,File Includes,Dev Loop Workflow,Shared Menu,Test and Debug
+1,Mon,08-20,Lesson01,PHP Server,Digital Ocean,Profile Page,Web dev
+,Wed,08-22,Lesson02,Extended HTML,Github Account,Add CSS,--
+,Fri,08-24,Lesson03,Design Patterns,,Exercises Page,PHP App
+2,Mon,08-27,Lesson04,CSS/HTML,,Styled Pages,MySQL database
+,Wed,08-29,Lesson05,Render View,Display Table,Exercises Index,PHP + MySQL
+,Fri,08-31,Lesson06,File Includes,Dev Loop Workflow,Shared Menu,Test and Debug
 3,Mon,09-03,,Labor Day,,,
-,Wed,09-05,Lesson7,View Inheritance,Automation,To Do List,
-,Fri,09-07,Lesson8,Read/Write Files,Automated Deploy,File Browser,Forms
-4,Mon,09-10,Lesson9,File Browser App,Automated Test,Notes Browser,Control statements
+,Wed,09-05,Lesson07,View Inheritance,Automation,To Do List,
+,Fri,09-07,Lesson08,Read/Write Files,Automated Deploy,File Browser,Forms
+4,Mon,09-10,Lesson09,File Browser App,Automated Test,Notes Browser,Control statements
 ,Wed,09-12,Lesson10,Text Transform,Design Review,Markdown Docs,Strings and numbers
 ,Fri,09-14,Lesson11,HTML for Forms,,Add New Notes,Dates
 5,Mon,09-17,Lesson12,Input Controls,,Complex Form,Arrays
