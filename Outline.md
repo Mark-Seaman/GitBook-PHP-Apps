@@ -1,7 +1,7 @@
 # PHP Apps Lessons
 
 
-## Mon 08-20 - Lesson1
+## Mon 08-20 - Lesson01
 
 ### Technology: PHP Server
 
@@ -11,7 +11,7 @@
 
 ### Textbook: Web dev
 
-## Wed 08-22 - Lesson2
+## Wed 08-22 - Lesson02
 
 ### Technology: Extended HTML
 
@@ -21,7 +21,7 @@
 
 ### Textbook: --
 
-## Fri 08-24 - Lesson3
+## Fri 08-24 - Lesson03
 
 ### Technology: Design Patterns
 
@@ -31,7 +31,7 @@
 
 ### Textbook: PHP App
 
-## Mon 08-27 - Lesson4
+## Mon 08-27 - Lesson04
 
 ### Technology: CSS/HTML
 
@@ -41,7 +41,7 @@
 
 ### Textbook: MySQL database
 
-## Wed 08-29 - Lesson5
+## Wed 08-29 - Lesson05
 
 ### Technology: Render View
 
@@ -51,7 +51,7 @@
 
 ### Textbook: PHP + MySQL
 
-## Fri 08-31 - Lesson6
+## Fri 08-31 - Lesson06
 
 ### Technology: File Includes
 
@@ -71,7 +71,7 @@
 
 ### Textbook: 
 
-## Wed 09-05 - Lesson7
+## Wed 09-05 - Lesson07
 
 ### Technology: View Inheritance
 
@@ -81,7 +81,7 @@
 
 ### Textbook: 
 
-## Fri 09-07 - Lesson8
+## Fri 09-07 - Lesson08
 
 ### Technology: Read/Write Files
 
@@ -91,7 +91,7 @@
 
 ### Textbook: Forms
 
-## Mon 09-10 - Lesson9
+## Mon 09-10 - Lesson09
 
 ### Technology: File Browser App
 
