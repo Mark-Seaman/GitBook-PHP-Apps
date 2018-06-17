@@ -1,462 +1,799 @@
 # PHP Apps Lessons
 
 
+<div class="box">
 ## Mon 08-20 - Lesson01
 
-### Technology: PHP Server
+Technology: PHP Server
 
-### Engineering: Digital Ocean
 
-### Application: Profile Page
+         Learn
+           Why take this class?
+           What will we learn?
+           How will we learn?
+           This class is not for everyone
+         Plan
+           Rules for Success
+           Each Lesson Workflow
+         Build
+           Step 1 - Make a directory to save your code
+           Step 2 - Run a text editor
+           Step 3 - Test your page
+           Step 4 - Add a headline
+           Step 5 - Setup a server
+           Step 6 - Push files to server
+         Share
 
-### Textbook: Web dev
 
+Engineering: Digital Ocean
+
+Application: Profile Page
+
+Textbook: Web dev
+
+</div>
+
+<div class="box">
 ## Wed 08-22 - Lesson02
 
-### Technology: Extended HTML
+Technology: Extended HTML
 
-### Engineering: Github Account
 
-### Application: Add CSS
+    
 
-### Textbook: --
 
+Engineering: Github Account
+
+Application: Add CSS
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Fri 08-24 - Lesson03
 
-### Technology: Design Patterns
+Technology: Design Patterns
 
-### Engineering: 
 
-### Application: Exercises Page
+    
 
-### Textbook: PHP App
 
+Engineering: 
+
+Application: Exercises Page
+
+Textbook: PHP App
+
+</div>
+
+<div class="box">
 ## Mon 08-27 - Lesson04
 
-### Technology: CSS/HTML
+Technology: CSS/HTML
 
-### Engineering: 
 
-### Application: Styled Pages
+    
 
-### Textbook: MySQL database
 
+Engineering: 
+
+Application: Styled Pages
+
+Textbook: MySQL database
+
+</div>
+
+<div class="box">
 ## Wed 08-29 - Lesson05
 
-### Technology: Render View
+Technology: Render View
 
-### Engineering: Display Table
 
-### Application: Exercises Index
+    
 
-### Textbook: PHP + MySQL
 
+Engineering: Display Table
+
+Application: Exercises Index
+
+Textbook: PHP + MySQL
+
+</div>
+
+<div class="box">
 ## Fri 08-31 - Lesson06
 
-### Technology: File Includes
+Technology: File Includes
 
-### Engineering: Dev Loop Workflow
 
-### Application: Shared Menu
+    
 
-### Textbook: Test and Debug
 
+Engineering: Dev Loop Workflow
+
+Application: Shared Menu
+
+Textbook: Test and Debug
+
+</div>
+
+<div class="box">
 ## Mon 09-03 - 
 
-### Technology: Labor Day
+Technology: Labor Day
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: 
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Wed 09-05 - Lesson07
 
-### Technology: View Inheritance
+Technology: View Inheritance
 
-### Engineering: Automation
 
-### Application: To Do List
+    
 
-### Textbook: 
 
+Engineering: Automation
+
+Application: To Do List
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Fri 09-07 - Lesson08
 
-### Technology: Read/Write Files
+Technology: Read/Write Files
 
-### Engineering: Automated Deploy
 
-### Application: File Browser
+    
 
-### Textbook: Forms
 
+Engineering: Automated Deploy
+
+Application: File Browser
+
+Textbook: Forms
+
+</div>
+
+<div class="box">
 ## Mon 09-10 - Lesson09
 
-### Technology: File Browser App
+Technology: File Browser App
 
-### Engineering: Automated Test
 
-### Application: Notes Browser
+    
 
-### Textbook: Control statements
 
+Engineering: Automated Test
+
+Application: Notes Browser
+
+Textbook: Control statements
+
+</div>
+
+<div class="box">
 ## Wed 09-12 - Lesson10
 
-### Technology: Text Transform
+Technology: Text Transform
 
-### Engineering: Design Review
 
-### Application: Markdown Docs
+    
 
-### Textbook: Strings and numbers
 
+Engineering: Design Review
+
+Application: Markdown Docs
+
+Textbook: Strings and numbers
+
+</div>
+
+<div class="box">
 ## Fri 09-14 - Lesson11
 
-### Technology: HTML for Forms
+Technology: HTML for Forms
 
-### Engineering: 
 
-### Application: Add New Notes
+    
 
-### Textbook: Dates
 
+Engineering: 
+
+Application: Add New Notes
+
+Textbook: Dates
+
+</div>
+
+<div class="box">
 ## Mon 09-17 - Lesson12
 
-### Technology: Input Controls
+Technology: Input Controls
 
-### Engineering: 
 
-### Application: Complex Form
+    
 
-### Textbook: Arrays
 
+Engineering: 
+
+Application: Complex Form
+
+Textbook: Arrays
+
+</div>
+
+<div class="box">
 ## Wed 09-19 - Lesson13
 
-### Technology: Post/Get Operations
+Technology: Post/Get Operations
 
-### Engineering: 
 
-### Application: File Update
+    
 
-### Textbook: Cookies & Sessions
 
+Engineering: 
+
+Application: File Update
+
+Textbook: Cookies & Sessions
+
+</div>
+
+<div class="box">
 ## Fri 09-21 - 
 
-### Technology: Exam1
+Technology: Exam1
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: 
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 09-24 - Lesson14
 
-### Technology: List/Details View
+Technology: List/Details View
 
-### Engineering: Pair Programming
 
-### Application: To Do Viewer
+    
 
-### Textbook: --
 
+Engineering: Pair Programming
+
+Application: To Do Viewer
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Wed 09-26 - Lesson15
 
-### Technology: Add/Edit View
+Technology: Add/Edit View
 
-### Engineering: 
 
-### Application: To Do Editor
+    
 
-### Textbook: Functions
 
+Engineering: 
+
+Application: To Do Editor
+
+Textbook: Functions
+
+</div>
+
+<div class="box">
 ## Fri 09-28 - Lesson16
 
-### Technology: Delete View
+Technology: Delete View
 
-### Engineering: 
 
-### Application: To Do Delete
+    
 
-### Textbook: Objects
 
+Engineering: 
+
+Application: To Do Delete
+
+Textbook: Objects
+
+</div>
+
+<div class="box">
 ## Mon 10-01 - Lesson17
 
-### Technology: jQuery
+Technology: jQuery
 
-### Engineering: Project Planning
 
-### Application: Smart Google Search
+    
 
-### Textbook: Expressions
 
+Engineering: Project Planning
+
+Application: Smart Google Search
+
+Textbook: Expressions
+
+</div>
+
+<div class="box">
 ## Wed 10-03 - Lesson18
 
-### Technology: Data Validation
+Technology: Data Validation
 
-### Engineering: 
 
-### Application: To Do Validator
+    
 
-### Textbook: Exceptions
 
+Engineering: 
+
+Application: To Do Validator
+
+Textbook: Exceptions
+
+</div>
+
+<div class="box">
 ## Fri 10-05 - Lesson19
 
-### Technology: JS Controls
+Technology: JS Controls
 
-### Engineering: 
 
-### Application: Fancy Controls ? TBD
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: Fancy Controls ? TBD
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 10-08 - Lesson20
 
-### Technology: MySQL
+Technology: MySQL
 
-### Engineering: Project Tracking
 
-### Application: Manual DB Manipulation
+    
 
-### Textbook: Database design
 
+Engineering: Project Tracking
+
+Application: Manual DB Manipulation
+
+Textbook: Database design
+
+</div>
+
+<div class="box">
 ## Wed 10-10 - Lesson21
 
-### Technology: Database Connect
+Technology: Database Connect
 
-### Engineering: 
 
-### Application: DB Connect
+    
 
-### Textbook: Create database
 
+Engineering: 
+
+Application: DB Connect
+
+Textbook: Create database
+
+</div>
+
+<div class="box">
 ## Fri 10-12 - Lesson22
 
-### Technology: Database Query
+Technology: Database Query
 
-### Engineering: 
 
-### Application: Views (list, read)
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: Views (list, read)
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 10-15 - Lesson23
 
-### Technology: CRUD
+Technology: CRUD
 
-### Engineering: Issue Tracking
 
-### Application: Views (add, edit, delete)
+    
 
-### Textbook: CRUD
 
+Engineering: Issue Tracking
+
+Application: Views (add, edit, delete)
+
+Textbook: CRUD
+
+</div>
+
+<div class="box">
 ## Wed 10-17 - Lesson24
 
-### Technology: Data Operations
+Technology: Data Operations
 
-### Engineering: 
 
-### Application: Music Manager
+    
 
-### Textbook: Website with data
 
+Engineering: 
+
+Application: Music Manager
+
+Textbook: Website with data
+
+</div>
+
+<div class="box">
 ## Fri 10-19 - Lesson25
 
-### Technology: Data Design
+Technology: Data Design
 
-### Engineering: 
 
-### Application: Artist / Album / Track
+    
 
-### Textbook: --
 
+Engineering: 
+
+Application: Artist / Album / Track
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Mon 10-22 - Lesson26
 
-### Technology: Joining Tables
+Technology: Joining Tables
 
-### Engineering: 
 
-### Application: Music Manager
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: Music Manager
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Wed 10-24 - Lesson27
 
-### Technology: Reusable Patterns
+Technology: Reusable Patterns
 
-### Engineering: Software Patterns
 
-### Application: Code Templates
+    
 
-### Textbook: MVC Pattern
 
+Engineering: Software Patterns
+
+Application: Code Templates
+
+Textbook: MVC Pattern
+
+</div>
+
+<div class="box">
 ## Fri 10-26 - 
 
-### Technology: Exam2
+Technology: Exam2
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: 
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 10-29 - Lesson28
 
-### Technology: User Registration
+Technology: User Registration
 
-### Engineering: User Stories
 
-### Application: User Registration
+    
 
-### Textbook: Security
 
+Engineering: User Stories
+
+Application: User Registration
+
+Textbook: Security
+
+</div>
+
+<div class="box">
 ## Wed 10-31 - Lesson29
 
-### Technology: User Login/Security
+Technology: User Login/Security
 
-### Engineering: 
 
-### Application: User Login
+    
 
-### Textbook: --
 
+Engineering: 
+
+Application: User Login
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Fri 11-02 - Lesson30
 
-### Technology: Forms App
+Technology: Forms App
 
-### Engineering: 
 
-### Application: To Do List App
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: To Do List App
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 11-05 - Lesson31
 
-### Technology: Notes App
+Technology: Notes App
 
-### Engineering: Customer Feedback
 
-### Application: Brain App
+    
 
-### Textbook: --
 
+Engineering: Customer Feedback
+
+Application: Brain App
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Wed 11-07 - Lesson32
 
-### Technology: Wiki App
+Technology: Wiki App
 
-### Engineering: 
 
-### Application: Wiki ?App
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: Wiki ?App
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Fri 11-09 - Lesson33
 
-### Technology: Social Network App
+Technology: Social Network App
 
-### Engineering: 
 
-### Application: Twitter ?App
+    
 
-### Textbook: --
 
+Engineering: 
+
+Application: Twitter ?App
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Mon 11-12 - Lesson34
 
-### Technology: Photo App
+Technology: Photo App
 
-### Engineering: Usability
 
-### Application: Photos
+    
 
-### Textbook: 
 
+Engineering: Usability
+
+Application: Photos
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Wed 11-14 - Lesson35
 
-### Technology: Export
+Technology: Export
 
-### Engineering: 
 
-### Application: Export
+    
 
-### Textbook: --
 
+Engineering: 
+
+Application: Export
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Fri 11-16 - Lesson36
 
-### Technology: Import
+Technology: Import
 
-### Engineering: 
 
-### Application: Import
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: Import
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 11-19 - Lesson37
 
-### Technology: Version Control
+Technology: Version Control
 
-### Engineering: 
 
-### Application: Doc Commit
+    
 
-### Textbook: Email
 
+Engineering: 
+
+Application: Doc Commit
+
+Textbook: Email
+
+</div>
+
+<div class="box">
 ## Wed 11-21 - 
 
-### Technology: Thanksgiving
+Technology: Thanksgiving
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: 
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Fri 11-23 - 
 
-### Technology: Thanksgiving
+Technology: Thanksgiving
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: 
 
+Engineering: 
+
+Application: 
+
+Textbook: 
+
+</div>
+
+<div class="box">
 ## Mon 11-26 - Lesson38
 
-### Technology: CSV Data
+Technology: CSV Data
 
-### Engineering: Client/Server
 
-### Application: Spreadsheets
+    
 
-### Textbook: Uploading files
 
+Engineering: Client/Server
+
+Application: Spreadsheets
+
+Textbook: Uploading files
+
+</div>
+
+<div class="box">
 ## Wed 11-28 - Lesson39
 
-### Technology: REST
+Technology: REST
 
-### Engineering: 
 
-### Application: Microservices
+    
 
-### Textbook: --
 
+Engineering: 
+
+Application: Microservices
+
+Textbook: --
+
+</div>
+
+<div class="box">
 ## Fri 11-30 - Lesson40
 
-### Technology: Wrapup
+Technology: Wrapup
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: eCommerce site
 
+Engineering: 
+
+Application: 
+
+Textbook: eCommerce site
+
+</div>
+
+<div class="box">
 ## Mon 12-03 - 
 
-### Technology: Exam3
+Technology: Exam3
 
-### Engineering: 
 
-### Application: 
+    
 
-### Textbook: 
+
+Engineering: 
+
+Application: 
+
+Textbook: 
+
+</div>
