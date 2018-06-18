@@ -53,27 +53,34 @@ Topic: Lesson01, , Digital Ocean, Profile Page, Web dev
 ### Step 1 - Make a directory to save your code
 * From Windows Explorer create a new folder
 * New Folder: Documents/BACS_350/web-root
-* Save your page in web-root/index.html
-
-### Step 2 - Run a text editor
 * From Windows start menu type Brackets
-* Create a simple web page
 * Save your page in Documents/BACS_350/web-root/index.html
 
 ```
-I am up and running
+<h1>My Home Page</h1>
+<p>I am up and running</p>
+```
+
+### Step 2 - Create exercise file
+* Create a new folder Documents/BACS_350/web-root/exercise
+* Create a simple web page Documents/BACS_350/web-root/exercise/ex01.php
+
+```
+<h1>Exercise #1</h1>
+<p>This is a simple php page that contains HTML.</p>
 ```
 
 ### Step 3 - Test your page
 * Double-click on Documents/BACS_350/web-root/index.html
 * Your page should look correct
 
-### Step 4 - Add a headline
-* Create a headline tag in HTML
+### Step 4 - Add some dynamic logic
+* Create a line of text within the HTML
 
 ```
-<h1>My Home Page</h1>
-<p>I am up and running</p>
+<?php
+    echo 'My name is Enigo Montoya'
+   ?>
 ```
 
 ### Step 5 - Setup a server
