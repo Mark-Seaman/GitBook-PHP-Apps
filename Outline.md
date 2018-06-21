@@ -7,22 +7,7 @@
 Technology: PHP Server
 
 
-         Learn
-           Why take this class?
-           What will we learn?
-           How will we learn?
-           This class is not for everyone
-         Plan
-           Rules for Success
-           Each Lesson Workflow
-         Build
-           Step 1 - Make a directory to save your code
-           Step 2 - Create exercise file
-           Step 3 - Test your page
-           Step 4 - Add some dynamic logic
-           Step 5 - Setup a server
-           Step 6 - Push files to server
-         Share
+    
 
 
 Engineering: Digital Ocean
@@ -39,19 +24,7 @@ Textbook: Web dev
 Technology: Extended HTML
 
 
-         Learn
-           Technology We Know
-           What is missing?
-           Client/Server Computing
-           Example: Form validation
-           HTML is stateless
-           PHP Allows Saved Memory
-           PHP Allows Complex Rendering
-         Plan
-         Build
-           Step 1 - Create a web page 'ex2.php'
-           Step 2 - Test the page
-         Share
+    
 
 
 Engineering: Github Account
