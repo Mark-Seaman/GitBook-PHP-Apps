@@ -1,6 +1,4 @@
-# Lesson #1 - Setup PHP Server
-
-## Share
+# Lesson 1 - Share
 
 * During the build steps you created and deployed a web page
 * Now register that URL in Canvas to get credit

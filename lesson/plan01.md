@@ -1,6 +1,4 @@
-# Lesson #1 - Setup PHP Server
-
-## Plan
+# Lesson 1 - Plan
 
 ### Rules for Success
 
