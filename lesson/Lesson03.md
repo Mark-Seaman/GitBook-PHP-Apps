@@ -1,5 +1,5 @@
 # Lesson 3 - Development Workflow
-![](image)
+![](img/Bear_Logo.png)
 
 Date: Mon, 08-24
 

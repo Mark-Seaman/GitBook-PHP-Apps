@@ -1,5 +1,5 @@
 # Lesson 1 - Setup PHP Server
-![](image)
+![](img/Bear_Logo.png)
 
 Date: Mon, 08-20
 

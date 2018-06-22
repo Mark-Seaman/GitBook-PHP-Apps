@@ -1,5 +1,5 @@
 # Lesson 2 - PHP Basics
-![](image)
+![](img/Bear_Logo.png)
 
 Date: Mon, 08-22
 
