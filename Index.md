@@ -5,7 +5,8 @@ UNC BACS 350 - Fall 2018
 
 ## Schedules
 
-* [Course Content](Outline)
+* [Course Content](Content)
+* [Course Outline](Outline)
 * [Schedule of Sessions](Schedule)
 * [Skills](Skills.md)
 

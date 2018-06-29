@@ -2,18 +2,19 @@ Lesson01
 Lesson02
 Lesson03
 
-lesson/lesson01
-lesson/lesson02
-lesson/lesson03
+lesson/01-Lesson
+lesson/02-Lesson
+lesson/03-Lesson
 
 missing
 Index
+Content
 Test
 
 /guide/PhpApps/Index
 /guide/PhpApps/Schedule
 /guide/PhpApps/Schedule#part-2-views
-/guide/PhpApps/Lesson40
+/guide/PhpApps/40-Lesson
 
 /guide/Index
 /guide/HtmlApps/Test
