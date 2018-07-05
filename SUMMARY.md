@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Seaman's Guides](seamans-guides.md)
-* [Course Outline](course-outline.md)
-* [Schedule Fall 2018](Schedule_UNC_Fall_2018.md)
-* [Introduction](README.md)
-* [Application Assignments](assignments.md)
-* [Index](index.md)
+* [Seaman's Guides](https://seamansguide.com/guide/Index)
+* [PHP Apps](https://seamansguide.com/guide/PhpApps/Index)
+* [Course Outline](https://seamansguide.com/guide/PhpApps/Outline)
+* [Course Content](https://seamansguide.com/guide/PhpApps/Content)
+* [Schedule Fall 2018](https://seamansguide.com/guide/PhpApps/Schedule)
 

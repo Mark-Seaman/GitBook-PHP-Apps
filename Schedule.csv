@@ -1,49 +1,49 @@
-,,,,,,,
-,,,,,,,
-,,,Lesson,Technology,Engineering,Application,Murach
-1,Mon,08-20,Lesson01,PHP Server,Digital Ocean,Profile Page,Web dev
-,Wed,08-22,Lesson02,Extended HTML,Github Account,Add CSS,--
-,Fri,08-24,Lesson03,Design Patterns,,Exercises Page,PHP App
-2,Mon,08-27,Lesson04,CSS/HTML,,Styled Pages,MySQL database
-,Wed,08-29,Lesson05,Render View,Display Table,Exercises Index,PHP + MySQL
-,Fri,08-31,Lesson06,File Includes,Dev Loop Workflow,Shared Menu,Test and Debug
-3,Mon,09-03,,Labor Day,,,
-,Wed,09-05,Lesson07,View Inheritance,Automation,To Do List,
-,Fri,09-07,Lesson08,Read/Write Files,Automated Deploy,File Browser,Forms
-4,Mon,09-10,Lesson09,File Browser App,Automated Test,Notes Browser,Control statements
-,Wed,09-12,Lesson10,Text Transform,Design Review,Markdown Docs,Strings and numbers
-,Fri,09-14,Lesson11,HTML for Forms,,Add New Notes,Dates
-5,Mon,09-17,Lesson12,Input Controls,,Complex Form,Arrays
-,Wed,09-19,Lesson13,Post/Get Operations,,File Update,Cookies & Sessions
-,Fri,09-21,,Exam1,,,
-6,Mon,09-24,Lesson14,List/Details View,Pair Programming,To Do Viewer,--
-,Wed,09-26,Lesson15,Add/Edit View,,To Do Editor,Functions
-,Fri,09-28,Lesson16,Delete View,,To Do Delete,Objects
-7,Mon,10-01,Lesson17,jQuery,Project Planning,Smart Google Search,Expressions
-,Wed,10-03,Lesson18,Data Validation,,To Do Validator,Exceptions
-,Fri,10-05,Lesson19,JS Controls,,Fancy Controls ? TBD,
-8,Mon,10-08,Lesson20,MySQL,Project Tracking,Manual DB Manipulation,Database design
-,Wed,10-10,Lesson21,Database Connect,,DB Connect,Create database
-,Fri,10-12,Lesson22,Database Query,,"Views (list, read)",
-9,Mon,10-15,Lesson23,CRUD,Issue Tracking,"Views (add, edit, delete)",CRUD
-,Wed,10-17,Lesson24,Data Operations,,Music Manager,Website with data
-,Fri,10-19,Lesson25,Data Design,,Artist / Album / Track,--
-10,Mon,10-22,Lesson26,Joining Tables,,Music Manager,
-,Wed,10-24,Lesson27,Reusable Patterns,Software Patterns,Code Templates,MVC Pattern
-,Fri,10-26,,Exam2,,,
-11,Mon,10-29,Lesson28,User Registration,User Stories,User Registration,Security
-,Wed,10-31,Lesson29,User Login/Security,,User Login,--
-,Fri,11-02,Lesson30,Forms App,,To Do List App,
-12,Mon,11-05,Lesson31,Notes App,Customer Feedback,Brain App,--
-,Wed,11-07,Lesson32,Wiki App,,Wiki ?App,
-,Fri,11-09,Lesson33,Social Network App,,Twitter ?App,--
-13,Mon,11-12,Lesson34,Photo App,Usability,Photos,
-,Wed,11-14,Lesson35,Export,,Export,--
-,Fri,11-16,Lesson36,Import,,Import,
-14,Mon,11-19,Lesson37,Version Control,,Doc Commit,Email
-,Wed,11-21,,Thanksgiving,,,
-,Fri,11-23,,Thanksgiving,,,
-15,Mon,11-26,Lesson38,CSV Data,Client/Server,Spreadsheets,Uploading files
-,Wed,11-28,Lesson39,REST,,Microservices,--
-,Fri,11-30,Lesson40,Wrapup,,,eCommerce site
-,Mon,12-03,,Exam3,,,
+,,,,,,,,
+,,,,,,,,
+,,,Lesson,Technology,Engineering,Application,Murach,
+1,Mon,08-20,Lesson01,PHP Server,Digital Ocean,Profile Page,Web dev,Core
+,Wed,08-22,Lesson02,Extended HTML,Github Account,Add CSS,--,
+,Fri,08-24,Lesson03,Design Patterns,,Exercises Page,PHP App,
+2,Mon,08-27,Lesson04,CSS/HTML,,Styled Pages,MySQL database,
+,Wed,08-29,Lesson05,Render View,Display Table,Exercises Index,PHP + MySQL,
+,Fri,08-31,Lesson06,File Includes,Dev Loop Workflow,Shared Menu,Test and Debug,
+3,Mon,09-03,,Labor Day,,,,
+,Wed,09-05,Lesson07,Read/Write Files,Automated Deploy,File Browser,,
+,Fri,09-07,Lesson08,File Browser App,Automated Test,Notes Browser,Forms,
+4,Mon,09-10,Lesson9,Text Transform,Design Review,Markdown Docs,Control statements,
+,Wed,09-12,Lesson10,View Inheritance,Automation,To Do List,Strings and numbers,Views
+,Fri,09-14,Lesson11,HTML for Forms,,Add New Notes,Dates,
+5,Mon,09-17,Lesson12,Input Controls,,Complex Form,Arrays,
+,Wed,09-19,Lesson13,Post/Get Operations,,File Update,Cookies & Sessions,
+,Fri,09-21,,Exam1,,,,
+6,Mon,09-24,Lesson14,List/Details View,Pair Programming,To Do Viewer,--,
+,Wed,09-26,Lesson15,Add/Edit View,,To Do Editor,Functions,
+,Fri,09-28,Lesson16,Delete View,,To Do Delete,Objects,
+7,Mon,10-01,Lesson17,jQuery,Project Planning,Smart Google Search,Expressions,
+,Wed,10-03,Lesson18,Data Validation,,To Do Validator,Exceptions,
+,Fri,10-05,Lesson19,JS Controls,,Fancy Controls – TBD,,
+8,Mon,10-08,Lesson20,MySQL,Project Tracking,Manual DB Manipulation,Database design,Data
+,Wed,10-10,Lesson21,Database Connect,,DB Connect,Create database,
+,Fri,10-12,Lesson22,Database Query,,"Views (list, read)",,
+9,Mon,10-15,Lesson23,CRUD,Issue Tracking,"Views (add, edit, delete)",CRUD,
+,Wed,10-17,Lesson24,Data Operations,,Music Manager,Website with data,
+,Fri,10-19,Lesson25,Data Design,,Artist / Album / Track,--,
+10,Mon,10-22,Lesson26,Joining Tables,,Music Manager,,
+,Wed,10-24,Lesson27,Reusable Patterns,Software Patterns,Code Templates,MVC Pattern,
+,Fri,10-26,,Exam2,,,,
+11,Mon,10-29,Lesson28,User Registration,User Stories,User Registration  ,Security,
+,Wed,10-31,Lesson29,User Login/Security,,User Login,--,
+,Fri,11-02,Lesson30,Forms App,,To Do List App,,Apps
+12,Mon,11-05,Lesson31,Notes App,Customer Feedback,Brain App,--,
+,Wed,11-07,Lesson32,Wiki App,,Wiki  App,,
+,Fri,11-09,Lesson33,Social Network App,,Twitter  App,--,
+13,Mon,11-12,Lesson34,Photo App,Usability,Photos,,
+,Wed,11-14,Lesson35,Export,,Export,--,
+,Fri,11-16,Lesson36,Import,,Import,,
+14,Mon,11-19,Lesson37,Version Control,,Doc Commit,Email,
+,Wed,11-21,,Thanksgiving,,,,
+,Fri,11-23,,Thanksgiving,,,,
+15,Mon,11-26,Lesson38,CSV Data,Client/Server ,Spreadsheets,Uploading files,
+,Wed,11-28,Lesson39,REST,,Microservices,--,
+,Fri,11-30,Lesson40,Wrapup,,,eCommerce site,
+,Mon,12-03,,Exam3,,,,
