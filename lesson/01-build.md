@@ -1,4 +1,4 @@
-# Lesson 1 - Build
+## Lesson 1 - Build
 
 ### Step 1 - Make a directory to save your code
 * From Windows Explorer create a new folder

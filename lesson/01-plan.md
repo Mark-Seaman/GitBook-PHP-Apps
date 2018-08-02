@@ -1,4 +1,4 @@
-# Lesson 1 - Plan
+### Lesson 1 - Plan
 
 ### Rules for Success
 

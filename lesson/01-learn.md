@@ -1,4 +1,4 @@
-# Lesson 1 - Learn
+## Lesson 1 - Learn
 
 ### Why take this class?
 

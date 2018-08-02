@@ -3,7 +3,7 @@
 
 Date: Mon, 08-20
 
-## Lesson Outline
+### Lesson Outline
 
 Learn
 
