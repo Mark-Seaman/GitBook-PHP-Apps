@@ -1,13 +1,16 @@
-# PHP Apps
+## PHP Apps
 Sensei Online Course
 
 UNC BACS 350 - Fall 2018
 
-## Schedules
+[Seaman's Guide](/guide/Index)
 
+
+### Schedules
+
+* [Schedule of Sessions](Schedule)
 * [Course Content](Content)
 * [Course Outline](Outline)
-* [Schedule of Sessions](Schedule)
 * [Skills](Skills.md)
 
 ## Lessons

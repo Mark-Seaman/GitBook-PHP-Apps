@@ -1,7 +1,6 @@
 book,Seaman's Guide,/guide/Index
-home,PHP Apps Course,/guide/PhpApps/Index.md
-cloud-outline,Core,/guide/PhpApps/Schedule#part-1-core
-comment-outline,Views,/guide/PhpApps/Schedule#part-2-views
-local-library,Data,/guide/PhpApps/Schedule#part-3-data
-local-library,Apps,/guide/PhpApps/Schedule#part-4-apps
+home,BACS 350,/guide/PhpApps/Index.md
+calendar,Schedule,/guide/PhpApps/Schedule
+comment-outline,Lesson,/guide/PhpApps/Lesson01
+local-library,Slides,/guide/PhpApps/Slides01
 key,Code,/guide/PhpApps/CodeTemplates.md
