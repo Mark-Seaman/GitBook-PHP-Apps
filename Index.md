@@ -1,4 +1,4 @@
-## PHP Apps
+# BACS 350
 Sensei Online Course
 
 UNC BACS 350 - Fall 2018

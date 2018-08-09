@@ -1,7 +1,16 @@
-<?php include 'header.php'; ?>
-<?php include 'files.php'; ?>
 
-<?php 
+<?php
+
+    // Setup a page title variable
+    $page_title = "Project Listing";
+
+    // Include the page start
+    include '../header.php';
+
+    // Define directory listing
+    include '../files.php';
+
+    // Get the files in the current directory
     $path = '.';
     $files = get_file_list($path);
 ?>
@@ -22,8 +31,6 @@
     </ul>
 <?php endif; ?>
 
-<?php readfile('index.php'); ?>
-<?php file_put_contents('/ex04.php', read_file('index.php')); ?>
 
 
-<?php include 'footer.php' ?>
+<?php include '../footer.php' ?>

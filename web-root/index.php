@@ -1,27 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-    <h1>PHP Apps - Document Root</h1>
-    <p>Page is index.php</p>
+<?php
 
-    <img src="Bear_Logo.png">
-    <h2>Exercises</h2>
+    // Setup a page title variable
+    $page_title = "UNC BACS Class Server";
+
+    // Include the page start
+    include 'bacs_350/header.php';
+
+    // Define directory listing
+    include 'bacs_350/files.php';
+
+    // Get the files in the current directory
+    $path = '.';
+    $files = get_dir_list($path);
+?>
+
+
+<h2>Directory Listing</h2>
+
+
+<?php if (count($files) == 0) : ?>
+    <p>No images uploaded.</p>
+<?php else: ?>
     <ul>
+        <?php foreach($files as $filename) :
+            $file_url = $path . '/' . urlencode($filename);
+        ?>
         <li>
-            <a href="ex01.php">Exercise 1</a>
+            <a href="<?php echo $file_url; ?>"><?php echo $filename; ?></a>
         </li>
-        <li>
-            <a href="ex02.php">Exercise 2</a>
-        </li> 
-        <li>
-            <a href="ex03.php">Exercise 3</a>
-        </li>
+        <?php endforeach; ?>
     </ul>
+<?php endif; ?>
 
-</body>
-</html>
+
+<?php include 'footer.php' ?>

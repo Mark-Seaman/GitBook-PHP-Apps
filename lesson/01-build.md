@@ -13,7 +13,7 @@
 
 ### Step 2 - Create exercise file
 * Create a new folder Documents/BACS_350/web-root/exercise
-* Create a simple web page Documents/BACS_350/web-root/exercise/ex01.php
+* Create a simple web page Documents/BACS_350/web-root/exercise/dirlist.php
 
 ```
 <h1>Exercise #1</h1>
